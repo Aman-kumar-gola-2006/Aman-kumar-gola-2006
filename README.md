@@ -1,5 +1,5 @@
 # About Me:
-B.Tech CSE ’26 @ TIT Bhopal<br>Under Officer @ NCC<br>Rotaractor<br>Java (DSA) | HTML & CSS | MS Office 
+B.Tech CSE ’26 @ TIT Bhopal<br>Under Officer @ NCC<br>Rotaractor<br>Java (DSA) | HTML & CSS | MS Office | 
 
 
 ## 🌐 Socials:
