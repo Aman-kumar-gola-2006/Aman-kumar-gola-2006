@@ -1,5 +1,5 @@
 # About Me:
-B.Tech CSE ’26 @ TIT Bhopal<br>Under Officer @ NCC<br>Rotaractor<br>Java (DSA) | HTML & CSS | MS Office 
+B.Tech CSE ’26 @ TIT Bhopal<br>Under Officer @ NCC<br>Rotaractor<br>Java (DSA) | HTML & CSS | MS Office |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amankumargola_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amankumargola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanagola9841@gmail.com) 
