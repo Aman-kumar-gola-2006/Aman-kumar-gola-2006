@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Java Full Stack | DSA**
 
-- 👨‍💻 All of my projects are available at [amankumargola.in](amankumargola.in)
+- 👨‍💻 All of my projects are available at [https://amankumargola.in/](https://amankumargola.in/)
 
 - 💬 Ask me about **JAVA FULL STACK DEVELOPMENT**
 
-- 📫 How to reach me **amankumargola.in**
+- 📫 How to reach me **https://amankumargola.in/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-LRsx6IvzVNWW46b78x2-MeqXcR4TwqH/view?usp=sharing](https://drive.google.com/file/d/1-LRsx6IvzVNWW46b78x2-MeqXcR4TwqH/view?usp=sharing)
 
