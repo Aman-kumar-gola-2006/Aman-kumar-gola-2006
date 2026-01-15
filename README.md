@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Student-paisa-tracker](https://student-paisa-tracker.netlify.app/)<br><br>🌱 I’m currently learning Java Full Stack | DSA<br><br>👨‍💻 All of my projects are available at https://amankumargola.in/<br><br>💬 Ask me about JAVA FULL STACK DEVELOPMENT<br><br>📫 How to reach me  https://amankumargola.in/<br><br>📄 Know about my experiences Resume : https://api.lkmr.in/UDALPH8<br><br>⚡ Fun fact I think i am funny<br><br>
+🔭 I’m currently . working on [Student-paisa-tracker](https://student-paisa-tracker.netlify.app/)<br><br>🌱 I’m currently learning Java Full Stack | DSA<br><br>👨‍💻 All of my projects are available at https://amankumargola.in/<br><br>💬 Ask me about JAVA FULL STACK DEVELOPMENT<br><br>📫 How to reach me  https://amankumargola.in/<br><br>📄 Know about my experiences Resume : https://api.lkmr.in/UDALPH8<br><br>⚡ Fun fact I think i am funny<br><br>
 
 
 ## 🌐 Socials:
